@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Asad Shaikh</h1>
-<h3 align="center">🚀 Full-Stack Engineer | 5+ Years of Building Software </h3>
+<h3 align="center">🚀 Full-Stack Engineer | 5+ Years of Building Softwares </h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/asadshk20"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
